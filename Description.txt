@@ -1,0 +1,12 @@
+Project 1:
+
+The Project aims to train a basic linear regression model to predict housing price 
+
+The Dataset is preprocessed to ease in the training of the algorithm
+
+The Model is trained on the California House Pricing Dataset
+
+The Model is trained and stored as a (.pkl) file
+
+The Trained Model is then called when the Testing code is run
+Inputs are taken from the user at run time and a Predicted price is displayed 
